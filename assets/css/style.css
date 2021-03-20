@@ -1118,7 +1118,7 @@ ul.experience-chart h4 {
 }
 
 .service-label {
-  position: static;
+  position: relative;
   left: 0;
   right: 0;
   top: 100px;
