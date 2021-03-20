@@ -2,7 +2,7 @@
 title : "COURSES"
 service_list:
 # service item loop
-- name : "Business English"
+- name : "Business English<br/>Online (Zoom)"
   image : "images/icons/web-development.png"
   
 # service item loop
