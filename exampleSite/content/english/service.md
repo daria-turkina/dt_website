@@ -2,27 +2,27 @@
 title : "SERVICES"
 service_list:
 # service item loop
-- name : "Web Development"
+- name : "Business English"
   image : "images/icons/web-development.png"
   
 # service item loop
-- name : "Graphic Design"
+- name : "General English"
   image : "images/icons/graphic-design.png"
   
 # service item loop
-- name : "Database Management"
+- name : "Conversation Practice"
   image : "images/icons/dbms.png"
   
 # service item loop
-- name : "Software Development"
+- name : "Translation Boot Camp"
   image : "images/icons/software-development.png"
   
 # service item loop
-- name : "Digital Marketing"
+- name : "Writing Boot Camp"
   image : "images/icons/marketing.png"
   
 # service item loop
-- name : "Mobile App Development"
+- name : "IELTS Exam Prep"
   image : "images/icons/mobile-app.png"
 
 
