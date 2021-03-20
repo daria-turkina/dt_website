@@ -13,26 +13,44 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+    - name : "Nursery English Teacher"
+      company : "Polifant Ditzingen gGmbH"
+      duration : "Oct. 2018 - now"
+      content : "Working as a Nursery English Teacher with kids (2-5 years old)."
       
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+    - name : "English Trainer and Camp Counselor"
+      company : "Berlitz, Berlin"
+      duration : "Apr. 2020 - Now"
+      content : "Teaching English online to kids and teens (A1–C1). Working as an English Camp Counselor at summer camps; teaching English and doing arts & crafts projects."
       
     # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+    - name : "English Trainer"
+      company : "DHBW, Lörrach"
+      duration : "Feb. 2020"
+      content : "Teaching a self-designed B1 English Course to a group of students."
+    
+    # experience item loop
+    - name : "English and Russian Trainer"
+      company : "Learnship GmbH, Köln"
+      duration : "Nov. 2019 - now"
+      content : "Teaching Business English and Russian in groups and one-on-one."
+    
+    # experience item loop
+    - name : "English Trainer"
+      company : "Kate’s School, Moscow"
+      duration : "Nov. 2016 - Mar. 2017"
+      content : "Teaching English in groups of up to 10 students (A1–C1)."
+    
+    # experience item loop
+    - name : "Private Tutor"
+      company : "Moscow"
+      duration : "2009 - 2014"
+      content : "Teaching English to kids and teens."
 
 ############################### Skill #################################
 skill:
-  enable : true
+  enable : false
   title : "SKILL"
   skill_list:
     # skill item loop
@@ -58,4 +76,8 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+Hi everyone! I’m Dasha.
+
+English Language Trainer  | Translator
+
+I have lived all over the place (Mongolia, Russia, the USA, and Germany). I have been a gentle and supportive English language trainer for students all over the world for over 10 years now. I am on my way to mindful living and I would gladly share my journey with you. I love art in all its forms, reading, and sports.
