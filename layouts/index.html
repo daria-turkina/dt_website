@@ -275,8 +275,19 @@
 <!-- End Services -->
 
 
+<!-- Start Services -->
 {{ with .GetPage "pricing" }}
-<link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700%7CRaleway:700' rel='stylesheet' type='text/css'>
+<style>{{.Params.custom_css | safeCSS}}</style>
+<section class="services {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} id="service">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto col-sm-10">
+        <div class="wow fadeInUp" data-wow-duration="1.5s">
+          <div class="services-heading">
+            <div class="bar"></div>
+            <h1>{{ .Title | markdownify }}</h1>
+          </div>
+          <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700%7CRaleway:700' rel='stylesheet' type='text/css'>
 <div class="main-container">
 <section class="pricing-2">
  <div class="container">
@@ -361,7 +372,13 @@
  </div>
 </section>
 </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 {{ end }}
+<!-- End Services -->
 
 <!-- call to action -->
 {{ with .GetPage "call-to-action" }}
