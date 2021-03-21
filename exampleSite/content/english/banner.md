@@ -1,5 +1,5 @@
 ---
-title : "I'm Daria Turkina"
+title : "I'm Dasha"
 # full screen navigation
 first_name : "Daria"
 last_name : "Turkina"
