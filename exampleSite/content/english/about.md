@@ -76,8 +76,9 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-Hi everyone! I’m Dasha.
-
-English Language Trainer  | Translator
-
 I have lived all over the place (Mongolia, Russia, the USA, and Germany). I have been a gentle and supportive English language trainer for students all over the world for over 10 years now. I am on my way to mindful living and I would gladly share my journey with you. I love art in all its forms, reading, and sports.
+
+My Approach:
+The focus is on you. You tell me your goals, and I will develop a strategy that will help you achieve them soon, but reasonably soon
+Learning a language is a life-long skill. I will identify your strengths and weaknesses and use teaching methods that are most effective for you 
+Learning a language is fun! As your teacher, I will make sure that you stay motivated and inspired.
