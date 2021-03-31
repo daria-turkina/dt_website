@@ -317,7 +317,11 @@
       <span class="amount">25</span>
       <span class="sub">/60 min</span>
      </div>
-     <a class="hireMe" href="">Sign Me Up</a>
+     {{ with .Params.button }}
+          {{ if .enable }}
+          <a class="hireMe" href="{{ .link | relURL}}">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
     </div>
    </div>
    <div class="col-md-3 no-pad hidden-sm">
