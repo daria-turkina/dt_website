@@ -3,7 +3,7 @@ title : "KNOW MORE <br> ABOUT ME"
 image : "images/backgrounds/portrait.jpg"
 # button
 button:
-  enable : true
+  enable : false
   label : "DOWNLOAD MY CV"
   link : "#"
 
