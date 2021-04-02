@@ -86,7 +86,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 [[params.social]]
 icon = "fab fa-instagram"
-link = "https://www.instagram.com/somratpro"
+link = "https://www.instagram.com/whiz.kit/"
 
 # [[params.social]]
 # icon = "fab fa-github"
@@ -94,7 +94,7 @@ link = "https://www.instagram.com/somratpro"
 
 [[params.social]]
 icon = "fab fa-linkedin"
-link = "https://www.linkedin.com/in/somratpro"
+link = "www.linkedin.com/in/daria-turkina-900196145"
 
 
 ################################### English language #####################################
